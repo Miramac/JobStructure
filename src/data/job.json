@@ -1,0 +1,45 @@
+﻿{
+    "name": "Vocatus",
+    "children": [{
+      "name": "Vorstand",
+      "children": [{
+        "name": "RI",
+          "children": [{
+            "name": "Thema A",
+            "children": [{
+              "name": "Pricing",
+              "size": 6714
+            }]
+          }]
+        }, {
+          "name": "Office",
+          "children": [{
+            "name": "Nadine",
+              "Employee_ID": 112,
+              "size": 6714
+          }]
+        }, {
+          "name": "Information Service",
+          "children": [{
+              "name": "Casten",
+              "Employee_ID": 123,
+              "size": 6714
+            },{
+              "name": "Andres",
+              "Employee_ID": 124,
+              "size": 6714
+            },{
+              "name": "Robert",
+              "Employee_ID": 125,
+              "size": 6714
+            },{
+            "name": "Fabi",
+              "Employee_ID": 126,
+              "size": 6714
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
